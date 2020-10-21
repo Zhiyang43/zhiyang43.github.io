@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -121,7 +121,7 @@ author:
       url: "https://scholar.google.com/citations?user=fKQTqCoAAAAJ"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:zhiyangw@seas.upenn.edu
+      # url: mailto:zhiyangw@seas.upenn.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zhiyangw.com"
