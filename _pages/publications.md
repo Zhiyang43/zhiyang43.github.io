@@ -12,4 +12,4 @@ author_profile: true
 
 UNSUPERVISED LEARNING FOR ASYNCHRONOUS RESOURCE ALLOCATION IN AD-HOC WIRELESS NETWORKS<br>
 Zhiyang Wang · Mark Eisen · Alejandro Ribeiro<br>
-[[link](/unsupervised-icassp21.pdf)]<br>
+[[link](/Papers/unsupervised-icassp21.pdf)]<br>
