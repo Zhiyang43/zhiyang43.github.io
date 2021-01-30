@@ -12,7 +12,7 @@ author_profile: true
 
 Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021. [[link](/Papers/unsupervised-icassp21.pdf)]<br>
 
-Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Jun. 2021.[[link](/Papers/graphon-stability-icassp.pdf)]<br>
+Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Jun. 2021.[[link](/Papers/graphon-stability.pdf)]<br>
 
 Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Decentralized Wireless Resource Allocation with Graph Neural Networks", accpted at the Asilomar Conference on Signals, Systems, and Computers, Nov. 2020.<br>
 
