@@ -16,18 +16,18 @@ Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Networ
 
 Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Decentralized Wireless Resource Allocation with Graph Neural Networks", accpted at the Asilomar Conference on Signals, Systems, and Computers, Nov. 2020.<br><br>
 
-Z. Wang, Z. Ying, and C. Shen, "Opportunistic Spectrum Access via Good Arm Identification," IEEE GlobalSIP 2018, Anaheim, California, USA, Nov. 2018.<br><br>
+Zhiyang Wang, Ziyu Ying, and Cong Shen, "Opportunistic Spectrum Access via Good Arm Identification," IEEE GlobalSIP 2018, Anaheim, California, USA, Nov. 2018.<br><br>
 
-Z. Wang and C. Shen, "Small Cell Power Assignment with Unimodal Continuum-armed Bandits," IEEE International Conference on Communications Workshop on 5G-UDN, 2018.<br><br>
+Zhiyang Wang and Cong Shen, "Small Cell Power Assignment with Unimodal Continuum-armed Bandits," IEEE International Conference on Communications Workshop on 5G-UDN, 2018.<br><br>
 
-Z. Wang, R. Zhou, and C. Shen," Regional Multi-Armed Bandits," Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 84:510-518, Playa Blanca, Lanzarote, Canary Islands, April 9-11, 2018.<br><br>
+Zhiyang Wang, Ruida Zhou, and Cong Shen," Regional Multi-Armed Bandits," Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 84:510-518, Playa Blanca, Lanzarote, Canary Islands, April 9-11, 2018.<br><br>
 
-Z. Wang, C. Shen, X. Luo, M. van der Schaar, "Learn to Adapt: Self-Optimizing Small Cell Transmit Power with Correlated Bandit Learning,"IEEE International Conference on Communications (ICC), 2017.<br><br>
+Zhiyang Wang, Cong Shen, Xiliang Luo, Mihaela van der Schaar, "Learn to Adapt: Self-Optimizing Small Cell Transmit Power with Correlated Bandit Learning,"IEEE International Conference on Communications (ICC), 2017.<br><br>
 
 
 ### Journal Papers
 
-Z. Wang, R. Zhou, and C. Shen, "Regional Multi-Armed Bandits with Partial Informativeness," IEEE Trans. Signal Process., Volume: 66, Issue: 21, Page(s): 5705-5717, Nov. 2018.<br><br>
+Zhiyang Wang, Ruida Zhou and Cong Shen, "Regional Multi-Armed Bandits with Partial Informativeness," IEEE Trans. Signal Process., Volume: 66, Issue: 21, Page(s): 5705-5717, Nov. 2018.<br><br>
 
-Z. Wang and C. Shen, "Small Cell Transmit Power Assignment Based on Correlated Bandit Learning,"IEEE Journal on Selected Areas in Communications, Vol. 35, No. 5, Page(s): 1030-1045, May 2017
+Zhiyang Wang and Cong Shen, "Small Cell Transmit Power Assignment Based on Correlated Bandit Learning,"IEEE Journal on Selected Areas in Communications, Vol. 35, No. 5, Page(s): 1030-1045, May 2017
 
