@@ -16,6 +16,8 @@ Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Networ
 
 Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Decentralized Wireless Resource Allocation with Graph Neural Networks", accpted at the Asilomar Conference on Signals, Systems, and Computers, Nov. 2020.<br>
 
+Cong Shen, Zhiyang Wang, Sofia S Villar and Mihaela van der Schaar, "Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints", International Conference on Machine Learning (ICML), 2020.<br>
+
 Zhiyang Wang, Ziyu Ying, and Cong Shen, "Opportunistic Spectrum Access via Good Arm Identification," IEEE GlobalSIP 2018, Anaheim, California, USA, Nov. 2018.<br>
 
 Zhiyang Wang and Cong Shen, "Small Cell Power Assignment with Unimodal Continuum-armed Bandits," IEEE International Conference on Communications Workshop on 5G-UDN, 2018.<br>
