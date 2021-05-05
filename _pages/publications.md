@@ -10,6 +10,8 @@ author_profile: true
 
 ### Conference Papers
 
+Zhiyang Wang, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", accepted at the European Signal Processing Conference (EUSIPCO), Aug. 2021.
+
 Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021. [[link](/Papers/unsupervised-icassp21.pdf)]<br>
 
 Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Jun. 2021.[[link](/Papers/graphon-stability.pdf)]<br>
