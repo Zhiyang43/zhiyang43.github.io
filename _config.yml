@@ -121,7 +121,7 @@ author:
       url: "https://scholar.google.com/citations?user=fKQTqCoAAAAJ"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:zhiyangw@seas.upenn.edu
+      # url: mailto:zhiyangw@seas.upenn.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zhiyangw.com"
