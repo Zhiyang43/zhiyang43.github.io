@@ -7,4 +7,4 @@ author_profile: true
 redirect_from: 
   - /resume/
 ---
-The up-to-date CV can be found [here(/cv/zhiyang_cv.pdf)].
+The up-to-date CV can be found [[here](/cv/zhiyang_cv.pdf)].
