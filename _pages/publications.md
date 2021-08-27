@@ -10,15 +10,15 @@ author_profile: true
 
 ### Conference Papers
 
-Zhiyang Wang, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", accepted at the European Signal Processing Conference (EUSIPCO), Aug. 2021.
+Zhiyang Wang, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", accepted at the European Signal Processing Conference (EUSIPCO), Aug. 2021. (Best student paper award)
 
-Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021. [[link](/Papers/unsupervised-icassp21.pdf)]<br>
+Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8143-8147. IEEE, 2021. [[link](/Papers/unsupervised-icassp21.pdf)]<br>
 
-Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", accepted at the International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Jun. 2021.[[link](/Papers/graphon-stability.pdf)]<br>
+Luana Ruiz, Zhiyang Wang and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2021. [[link](/Papers/graphon-stability.pdf)]<br>
 
-Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Decentralized Wireless Resource Allocation with Graph Neural Networks", accpted at the Asilomar Conference on Signals, Systems, and Computers, Nov. 2020.<br>
+Zhiyang Wang, Mark Eisen and  Alejandro Ribeiro, "Decentralized Wireless Resource Allocation with Graph Neural Networks", In 2020 54th Asilomar Conference on Signals, Systems, and Computers, pp. 299-303. IEEE, 2020.<br>
 
-Cong Shen, Zhiyang Wang, Sofia S Villar and Mihaela van der Schaar, "Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints", International Conference on Machine Learning (ICML), 2020.<br>
+Cong Shen, Zhiyang Wang, Sofia S Villar and Mihaela van der Schaar, "Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints", In International Conference on Machine Learning, pp. 8730-8740. PMLR, 2020.<br>
 
 Zhiyang Wang, Ziyu Ying, and Cong Shen, "Opportunistic Spectrum Access via Good Arm Identification," IEEE GlobalSIP 2018, Anaheim, California, USA, Nov. 2018.<br>
 
