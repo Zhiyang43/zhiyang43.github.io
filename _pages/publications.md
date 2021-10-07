@@ -10,7 +10,7 @@ author_profile: true
 
 ### Conference Papers
 
-<b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", submitted to ICASSP 2022.  [[link](/Papers/Stable_and_Transferable_Wireless_Resource_Allocation_Policies.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", submitted to ICASSP 2022.  [[link](/Papers/Stable-icassp2022.pdf)]<br>
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", accepted at the European Signal Processing Conference (EUSIPCO), Aug. 2021. <b>(Best student paper award)</b>
 
