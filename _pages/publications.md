@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Conference Papers
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds Under Relative Perturbations", accepted at ICASSP 2022.  [[link](/Papers/Stability_of_Neural_Networks_on_Riemannian_Manifolds_Under_Relative_Perturbations.pdf)]<br> 
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds Under Relative Perturbations", accepted at ICASSP 2022.  [[link](/Papers/Stability_of_Neural_Networks_on_Riemannian_Manifolds_Under_Relative_Perturbations.pdf)]<br> 
 
 
 <b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", accepted at ICASSP 2022.  [[link](/Papers/Stable-icassp2022.pdf)]<br>
