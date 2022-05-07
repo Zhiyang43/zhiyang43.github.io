@@ -12,12 +12,12 @@ author_profile: true
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", submitted to Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
 
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", accepted at ICASSP 2022.  [[link](/Papers/stability_ICASSP2022.pdf)]<br> 
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5473-5477). IEEE.  [[link](/Papers/stability_ICASSP2022.pdf)]<br> 
 
 
-<b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", accepted at ICASSP 2022.  [[link](/Papers/Stable-icassp2022.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 8912-8916). IEEE.  [[link](/Papers/Stable-icassp2022.pdf)]<br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", accepted at the European Signal Processing Conference (EUSIPCO), Aug. 2021. <b>(Best student paper award)</b>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", In 2021 29th European Signal Processing Conference (EUSIPCO) (pp. 1845-1849). IEEE. <b>(Best student paper award)</b>
 
 <b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8143-8147. IEEE, 2021. [[link](/Papers/unsupervised-icassp21.pdf)]<br>
 
@@ -38,7 +38,7 @@ Cong Shen, <b>Zhiyang Wang</b>, Sofia S Villar and Mihaela van der Schaar, "Lear
 
 ### Journal Papers
 
-<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks," IEEE Trans. Signal Process. Accepted. <br>
+<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks," IEEE Transactions on Signal Processing 70 (2022): 1850-1863. <br>
 
 <b>Zhiyang Wang</b>, Ruida Zhou and Cong Shen, "Regional Multi-Armed Bandits with Partial Informativeness," IEEE Trans. Signal Process., Volume: 66, Issue: 21, Page(s): 5705-5717, Nov. 2018.<br>
 
