@@ -9,6 +9,9 @@ author_profile: true
 
 
 ### Conference Papers
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", submitted to Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
+
+
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", accepted at ICASSP 2022.  [[link](/Papers/stability_ICASSP2022.pdf)]<br> 
 
 
