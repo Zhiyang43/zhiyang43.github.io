@@ -10,9 +10,9 @@ author_profile: true
 
 ### Conference Papers
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", submitted to Asilomar 2022.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
+C. Battiloro, <b>Z. Wang</b>, H. Riess, P. Di Lorenzo and A. Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", submitted to ICASSP 2023.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", submitted to Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", accepted at Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
 
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5473-5477). IEEE.  [[link](/Papers/stability_ICASSP2022.pdf)]<br> 
