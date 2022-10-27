@@ -9,6 +9,8 @@ author_profile: true
 
 
 ### Conference Papers
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", submitted to ICASSP 2023.  [[link](/Papers/sampledmanifolds.pdf)]<br>
+
 
 C. Battiloro, <b>Z. Wang</b>, H. Riess, P. Di Lorenzo and A. Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", submitted to ICASSP 2023.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
 
