@@ -9,6 +9,9 @@ author_profile: true
 
 
 ### Conference Papers
+
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", submitted to Asilomar 2023.  [[link](/Papers/Asilomar_convergence.pdf)]<br>
+
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", submitted to ICASSP 2023.  [[link](/Papers/sampledmanifolds.pdf)]<br>
 
 
