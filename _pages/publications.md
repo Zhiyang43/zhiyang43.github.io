@@ -12,10 +12,10 @@ author_profile: true
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", submitted to Asilomar 2023.  [[link](/Papers/Asilomar2023.pdf)]<br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", submitted to ICASSP 2023.  [[link](/Papers/sampledmanifolds.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", accepted at ICASSP 2023.  [[link](/Papers/sampledmanifolds.pdf)]<br>
 
 
-C. Battiloro, <b>Z. Wang</b>, H. Riess, P. Di Lorenzo and A. Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", submitted to ICASSP 2023.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", accepted at ICASSP 2023.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", accepted at Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
 
@@ -45,6 +45,13 @@ Cong Shen, <b>Zhiyang Wang</b>, Sofia S Villar and Mihaela van der Schaar, "Lear
 
 
 ### Journal Papers
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. <br>
+
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs," submitted to IEEE Transactions on Signal Processing. <br>
+
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks," submitted to IEEE Transactions on Signal and Information Processing over Networks. <br>
+
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks," submitted to IEEE Transactions on Signal Processing. <br>
 
 <b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks," IEEE Transactions on Signal Processing 70 (2022): 1850-1863. <br>
 
