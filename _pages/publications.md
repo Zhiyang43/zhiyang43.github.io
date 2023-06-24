@@ -45,6 +45,8 @@ Cong Shen, <b>Zhiyang Wang</b>, Sofia S Villar and Mihaela van der Schaar, "Lear
 
 
 ### Journal Papers
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," submitted to IEEE Transactions on Signal Processing. <br>
+
 Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. <br>
 
 Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs," submitted to IEEE Transactions on Signal Processing. <br>
