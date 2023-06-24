@@ -16,4 +16,6 @@ I am a 4th year PhD candidate in the [Alelab group](https://alelab.seas.upenn.ed
 My main research interest focuses on the theoretical analyses of the limits of large graph neural networks as manifold neural networks and their applications on analyzing high-dimensional data.
 
 
-<h2>News:</h2>
+<h3>News:</h3>
+
+Apr 2023: I have been named a [Rising star in Signal Processing](https://2023.ieeeicassp.org/call-for-applications-rising-stars-in-signal-processing/). I will be presenting my thesis work on manifold filters and neural networks at ICASSP 2023. Check out the poster here!
