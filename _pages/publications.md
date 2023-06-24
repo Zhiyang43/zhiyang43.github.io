@@ -8,8 +8,7 @@ author_profile: true
 
 
 
-### Conference Papers
-
+<h3>Conference Papers:</h3>
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", submitted to Asilomar 2023.  [[link](/Papers/Asilomar2023.pdf)]<br>
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](/Papers/sampledmanifolds.pdf)]<br>
@@ -44,7 +43,7 @@ Cong Shen, <b>Zhiyang Wang</b>, Sofia S Villar and Mihaela van der Schaar, "Lear
 <b>Zhiyang Wang</b>, Cong Shen, Xiliang Luo, Mihaela van der Schaar, "Learn to Adapt: Self-Optimizing Small Cell Transmit Power with Correlated Bandit Learning,"IEEE International Conference on Communications (ICC), 2017.<br>
 
 
-### Journal Papers
+<h3>Journal Papers:</h3>
 <b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," submitted to IEEE Transactions on Signal Processing. <br>
 
 Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. <br>
