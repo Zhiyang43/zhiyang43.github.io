@@ -12,10 +12,10 @@ author_profile: true
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", submitted to Asilomar 2023.  [[link](/Papers/Asilomar2023.pdf)]<br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", accepted at ICASSP 2023.  [[link](/Papers/sampledmanifolds.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](/Papers/sampledmanifolds.pdf)]<br>
 
 
-Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", accepted at ICASSP 2023.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", accepted at Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
 
