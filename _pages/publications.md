@@ -12,17 +12,17 @@ author_profile: true
 
 Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. <br>
 
-Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs," submitted to IEEE Transactions on Signal Processing. <br>
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs", submitted to IEEE Transactions on Signal Processing. <br>
 
-Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks," submitted to IEEE Transactions on Signal and Information Processing over Networks. <br>
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", submitted to IEEE Transactions on Signal and Information Processing over Networks. <br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks," submitted to IEEE Transactions on Signal Processing. <br>
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", submitted to IEEE Transactions on Signal Processing. <br>
 
-<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks," IEEE Transactions on Signal Processing 70 (2022): 1850-1863. <br>
+<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks", IEEE Transactions on Signal Processing 70 (2022): 1850-1863. <br>
 
-<b>Zhiyang Wang</b>, Ruida Zhou and Cong Shen, "Regional Multi-Armed Bandits with Partial Informativeness," IEEE Trans. Signal Process., Volume: 66, Issue: 21, Page(s): 5705-5717, Nov. 2018.<br>
+<b>Zhiyang Wang</b>, Ruida Zhou and Cong Shen, "Regional Multi-Armed Bandits with Partial Informativeness", IEEE Transactions on Signal Processing, Volume: 66, Issue: 21, Page(s): 5705-5717, Nov. 2018.<br>
 
-<b>Zhiyang Wang</b> and Cong Shen, "Small Cell Transmit Power Assignment Based on Correlated Bandit Learning,"IEEE Journal on Selected Areas in Communications, Vol. 35, No. 5, Page(s): 1030-1045, May 2017.
+<b>Zhiyang Wang</b> and Cong Shen, "Small Cell Transmit Power Assignment Based on Correlated Bandit Learning", IEEE Journal on Selected Areas in Communications, Vol. 35, No. 5, Page(s): 1030-1045, May 2017.
 
 
 <h2>Conference Papers:</h2>
