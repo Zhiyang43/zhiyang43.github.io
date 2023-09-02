@@ -22,6 +22,6 @@ My main research interest focuses on the theoretical analyses of the limits of l
 <b>Jul 2023:</b> A paper is accepted by [Asilomar 2023](https://www.asilomarsscconf.org/). See you there!<br>
 <b>Jun 2023:</b> I start my internship at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/).<br>
 <b>Jun 2023:</b> I presented my work at ICASSP 2023. Check out the poster [here](https://zhiyangw.com/Papers/ICASSP_convolutional_poster.pdf).<br>
-<b>Apr 2023:</b> I have been named a [Rising star in Signal Processing](https://2023.ieeeicassp.org/call-for-applications-rising-stars-in-signal-processing/). I will be presenting my thesis work on manifold filters and neural networks at ICASSP 2023. Check out the poster [here](https://zhiyangw.com/Papers/ICASSP_rising_star_poster.pdf)!<br>
+<b>Apr 2023:</b> I have been named a [Rising star in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop/). I will be presenting my thesis work on manifold filters and neural networks at ICASSP 2023. Check out the poster [here](https://zhiyangw.com/Papers/ICASSP_rising_star_poster.pdf)!<br>
 
 
