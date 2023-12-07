@@ -5,18 +5,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h2>Submitted:</h2>
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," submitted to IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2305.18467)]<br>
+
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. <br>
+
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", submitted to IEEE Transactions on Signal Processing. <br>
 
 
 <h2>Journal Papers:</h2>
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," submitted to IEEE Transactions on Signal Processing. <br>
-
-Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. <br>
 
 Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs", submitted to IEEE Transactions on Signal Processing. <br>
 
 Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", submitted to IEEE Transactions on Signal and Information Processing over Networks. <br>
-
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", submitted to IEEE Transactions on Signal Processing. <br>
 
 <b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks", IEEE Transactions on Signal Processing 70 (2022): 1850-1863. <br>
 
