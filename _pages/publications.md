@@ -36,7 +36,7 @@ Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon P
 
 Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", accepted at Asilomar 2022.  [[link](/Papers/convolution-asilomar2022.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", In 2022 56th Asilomar Conference on Signals, Systems, and Computers, pp. 356-360. IEEE, 2022.  [[link](https://ieeexplore.ieee.org/abstract/document/10051964?casa_token=6H8t-1zyLD8AAAAA:IsUNCakPMMv4AS5a_HRidRTJ2qaDApCgLDaW0lyRx8YvxRdMqlaOLEaq4CELI8qYCaTqas7sZjY)]<br>
 
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5473-5477). IEEE.  [[link](/Papers/stability_ICASSP2022.pdf)]<br> 
