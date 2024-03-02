@@ -10,10 +10,12 @@ author_profile: true
 
 Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2303.11323)] <br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", submitted to IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2106.03725)] <br>
+
 
 
 <h2>Journal Papers:</h2>
+
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2106.03725)] <br>
 
 Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", accepted at IEEE Transactions on Signal and Information Processing over Networks. [[link](https://arxiv.org/abs/2207.03678)] <br>
 
