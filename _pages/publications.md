@@ -5,15 +5,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2>Submitted:</h2>
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," submitted to IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2305.18467)] <br>
-
-Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", submitted to IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2303.11323)] <br>
-
-
-
 
 <h2>Journal Papers:</h2>
+
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2305.18467)] <br>
+
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2303.11323)] <br>
 
 <b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2106.03725)] <br>
 
