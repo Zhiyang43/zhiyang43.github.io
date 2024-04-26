@@ -26,7 +26,7 @@ Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon P
 
 
 <h2>Conference Papers:</h2>
-<b>Zhiyang Wang</b>, Juan Cervino and Alejandro Ribeiro, "Generalization of Geometric Graph Neural Networks", submitted to Asilomar 2024. [[link](/Papers/Generalization2024Asilomar.pdf)]<br>
+<b>Zhiyang Wang</b>, Juan Cervino and Alejandro Ribeiro, "Generalization of Geometric Graph Neural Networks", submitted to Asilomar 2024. [[link](https://zhiyangw.com/Papers/Generalization2024Asilomar.pdf)]<br>
 
 <b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", In 2023 57th Asilomar Conference on Signals, Systems, and Computers (pp. 566-572). IEEE.  [[link](https://ieeexplore.ieee.org/abstract/document/10476997)]<br>
 
