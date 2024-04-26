@@ -14,11 +14,11 @@ Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejand
 
 <b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2106.03725)] <br>
 
-Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", accepted at IEEE Transactions on Signal and Information Processing over Networks. [[link](https://arxiv.org/abs/2207.03678)] <br>
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", accepted at IEEE Transactions on Signal and Information Processing over Networks. [[link](https://ieeexplore.ieee.org/abstract/document/10354426)] <br>
 
-Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs", IEEE Transactions on Signal Processing, Volume: 71, Issue: 21, Page(s): 3577 - 3591, 2023. [[link](https://arxiv.org/abs/2212.08171)] <br>
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs", IEEE Transactions on Signal Processing, Volume: 71, Issue: 21, Page(s): 3577 - 3591, 2023. [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261234)] <br>
 
-<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks", IEEE Transactions on Signal Processing 70 (2022): 1850-1863. [[link](https://arxiv.org/abs/2107.01489)]<br>
+<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks", IEEE Transactions on Signal Processing 70 (2022): 1850-1863. [[link](https://ieeexplore.ieee.org/document/9745318)]<br>
 
 <b>Zhiyang Wang</b>, Ruida Zhou and Cong Shen, "Regional Multi-Armed Bandits with Partial Informativeness", IEEE Transactions on Signal Processing, Volume: 66, Issue: 21, Page(s): 5705-5717, Nov. 2018. [[link](https://ieeexplore.ieee.org/document/8466607)]<br>
 
@@ -26,26 +26,28 @@ Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon P
 
 
 <h2>Conference Papers:</h2>
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", submitted to Asilomar 2023.  [[link](/Papers/Asilomar2023.pdf)]<br>
+<b>Zhiyang Wang</b>, Juan Cervino and Alejandro Ribeiro, "Generalization of Geometric Graph Neural Networks", submitted to Asilomar 2024.  [[link](/Papers/Generalization2024Asilomar.pdf)]<br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](/Papers/sampledmanifolds.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convergence of Graph Neural Networks on Relatively Sparse Graphs", In 2023 57th Asilomar Conference on Signals, Systems, and Computers (pp. 566-572). IEEE.  [[link](https://ieeexplore.ieee.org/abstract/document/10476997)]<br>
 
-
-Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](/Papers/VMNN_ICASSP.pdf)]<br>
-
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", In 2022 56th Asilomar Conference on Signals, Systems, and Computers, pp. 356-360. IEEE, 2022.  [[link](https://ieeexplore.ieee.org/abstract/document/10051964?casa_token=6H8t-1zyLD8AAAAA:IsUNCakPMMv4AS5a_HRidRTJ2qaDApCgLDaW0lyRx8YvxRdMqlaOLEaq4CELI8qYCaTqas7sZjY)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Filtering on Sampled Manifolds", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](https://ieeexplore.ieee.org/abstract/document/10097267)]<br>
 
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5473-5477). IEEE.  [[link](/Papers/stability_ICASSP2022.pdf)]<br> 
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Filters and Neural Networks:  from Manifolds to Cellular Sheaves and Back", In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  [[link](https://ieeexplore.ieee.org/abstract/document/10096934)]<br>
+
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Convolutional Neural Networks on Manifolds: From Graphs and Back", In 2022 56th Asilomar Conference on Signals, Systems, and Computers, pp. 356-360. IEEE, 2022.  [[link](https://ieeexplore.ieee.org/abstract/document/10051964)]<br>
 
 
-<b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 8912-8916). IEEE.  [[link](/Papers/Stable-icassp2022.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Manifolds to Relative Perturbations", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5473-5477). IEEE.  [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747865)]<br> 
 
-<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", In 2021 29th European Signal Processing Conference (EUSIPCO) (pp. 1845-1849). IEEE. <b>(Best student paper award) [[link](https://arxiv.org/abs/2103.02663)]</b>
 
-<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8143-8147. IEEE, 2021. [[link](/Papers/unsupervised-icassp21.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz, Mark Eisen and Alejandro Ribeiro, "Stable and Transferable Wireless Resource Allocation Policies via Manifold Neural Networks", In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 8912-8916). IEEE.  [[link](https://ieeexplore.ieee.org/abstract/document/9746313)]<br>
 
-Luana Ruiz, <b>Zhiyang Wang</b> and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2021. [[link](/Papers/graphon-stability.pdf)]<br>
+<b>Zhiyang Wang</b>, Luana Ruiz and Alejandro Ribeiro, "Stability of Neural Networks on Riemannian Manifolds", In 2021 29th European Signal Processing Conference (EUSIPCO) (pp. 1845-1849). IEEE. <b>(Best student paper award) [[link](https://ieeexplore.ieee.org/abstract/document/9616024)]</b>
+
+<b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8143-8147. IEEE, 2021. [[link](https://ieeexplore.ieee.org/abstract/document/9414181)]<br>
+
+Luana Ruiz, <b>Zhiyang Wang</b> and Alejandro Ribeiro, "Graph and Graphon Neural Network Stability", In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2021. [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414838)]<br>
 
 <b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Decentralized Wireless Resource Allocation with Graph Neural Networks", In 2020 54th Asilomar Conference on Signals, Systems, and Computers, pp. 299-303. IEEE, 2020. [[link](https://ieeexplore.ieee.org/document/9443326)]<br>
 
