@@ -110,7 +110,7 @@ author:
   name             : "Zhiyang Wang"
   avatar           : "/Images/4F6A2395.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "3401 Walnut St, Philadelphia, PA, USA"
+  location         : "3401 Walnut St <br> Philadelphia, PA, USA"
   email            : "zhiyangw@seas.upenn.edu"
   links:
     - label: "CV"
@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://zhiyangw.com"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zhiyang-wang-692b80196/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
