@@ -10,13 +10,13 @@ author_profile: true
 
 <b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2305.18467)] <br>
 
-Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2303.11323)] <br>
+Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", in IEEE Transactions on Signal Processing, vol. 72, pp. 1892-1909, 2024. [[link](https://ieeexplore.ieee.org/abstract/document/10476636)] <br>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2106.03725)] <br>
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Stability to Deformations of Manifold Filters and Manifold Neural Networks", in IEEE Transactions on Signal Processing, vol. 72, pp. 2130-2146, 2024. [[link](https://ieeexplore.ieee.org/document/10474483?source=authoralert)] <br>
 
-Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", accepted at IEEE Transactions on Signal and Information Processing over Networks. [[link](https://ieeexplore.ieee.org/abstract/document/10354426)] <br>
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b>, Fernando Gama and  Alejandro Ribeiro, "Stability of Aggregation Graph Neural Networks", in IEEE Transactions on Signal and Information Processing over Networks, vol. 9, pp. 850-864, 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10354426)] <br>
 
-Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs", IEEE Transactions on Signal Processing, Volume: 71, Issue: 21, Page(s): 3577 - 3591, 2023. [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261234)] <br>
+Alejandro Parada-Mayorga, <b>Zhiyang Wang</b> and  Alejandro Ribeiro, "Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs", in IEEE Transactions on Signal Processing, Volume: 71, Issue: 21, Page(s): 3577 - 3591, 2023. [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261234)] <br>
 
 <b>Zhiyang Wang</b>, Mark Eisen and  Alejandro Ribeiro, "Learning Decentralized Wireless Resource Allocations with Graph Neural Networks", IEEE Transactions on Signal Processing 70 (2022): 1850-1863. [[link](https://ieeexplore.ieee.org/document/9745318)]<br>
 
