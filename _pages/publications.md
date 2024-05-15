@@ -8,7 +8,7 @@ author_profile: true
 
 <h2>Journal Papers:</h2>
 
-<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," accepted at IEEE Transactions on Signal Processing. [[link](https://arxiv.org/abs/2305.18467)] <br>
+<b>Zhiyang Wang</b>, Luana Ruiz and  Alejandro Ribeiro, "Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs," in IEEE Transactions on Signal Processing, vol. 72, pp. 2244-2259, 2024. [[link](https://ieeexplore.ieee.org/document/10508628)] <br>
 
 Claudio Battiloro, <b>Zhiyang Wang</b>, Hans Riess, Paolo Di Lorenzo and Alejandro Ribeiro, "Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back", in IEEE Transactions on Signal Processing, vol. 72, pp. 1892-1909, 2024. [[link](https://ieeexplore.ieee.org/abstract/document/10476636)] <br>
 
