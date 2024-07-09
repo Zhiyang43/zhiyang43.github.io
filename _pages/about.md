@@ -15,6 +15,8 @@ I am a 5th year PhD candidate of the [Electrical and Systems Engineering departm
 
 My research is focused on the analysis of geometric graph signal processing in the limit with manifold filters and neural networks. I explore the applications on wireless networks, robotics as well as point cloud analysis. 
 
+<p style="color:red;">I am on the 2024-2025 academic job market and would be happy to discuss any opportunities!</p>
+
 <h3>News:</h3>
 
 <b>Apr 2024:</b> Our paper [“Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs”](https://arxiv.org/abs/2305.18467) got accepted at IEEE Transactions on Signal Processing! <br>
