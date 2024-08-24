@@ -110,7 +110,7 @@ author:
   name             : "Zhiyang Wang"
   avatar           : "/Images/4F6A2395.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "3401 Walnut St <br>   Philadelphia, PA, USA"
+  location         : "Philadelphia, PA, USA"
   email            : "zhiyangw@seas.upenn.edu"
   links:
     - label: "CV"
