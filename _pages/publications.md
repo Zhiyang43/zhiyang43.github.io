@@ -6,6 +6,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Journal Papers](#journal-papers)\
+[Conference Paper](#conference-papers)
+
 ## Journal Papers
 
 **Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs**\
@@ -72,12 +75,12 @@ Claudio Battiloro, **Zhiyang Wang**, Hans Riess, Paolo Di Lorenzo, Alejandro Rib
 [[pdf](/Papers/ICASSP2023-VMNN.pdf)][[link](https://ieeexplore.ieee.org/document/10096934)]
 
 **Convolutional Neural Networks on Manifolds: From Graphs and Back**\
-**Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro.
+**Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro.\
 *Asilomar Conference on Signals, Systems, and Computers*, 2022.\
 [[pdf](/Papers/Asilomar2022-convolution.pdf)][[link](https://ieeexplore.ieee.org/document/10051964)]
 
 **Stability of Neural Networks on Manifolds to Relative Perturbations**\
-**Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro.
+**Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro.\
 *International Conference on Acoustics, Speech, and Signal Processing* (ICASSP), 2022.\
 [[pdf](/Papers/ICASSP2022-stability.pdf)][[link](https://ieeexplore.ieee.org/document/9747865)]
 
@@ -98,21 +101,21 @@ Claudio Battiloro, **Zhiyang Wang**, Hans Riess, Paolo Di Lorenzo, Alejandro Rib
 [[pdf](/Papers/ICASSP2021-Unsupervised.pdf)][[link](https://ieeexplore.ieee.org/document/9414181)]
 
 **Graph and Graphon Neural Network Stability**\
-Luana Ruiz, **Zhiyang Wang**, Alejandro Ribeiro.
+Luana Ruiz, **Zhiyang Wang**, Alejandro Ribeiro.\
 *International Conference on Acoustics, Speech, and Signal Processing* (ICASSP), 2021.\
 [[pdf](/Papers/ICASSP2021-graphonstability.pdf)][[link](https://ieeexplore.ieee.org/document/9414838)]
 
 **Decentralized Wireless Resource Allocation with Graph Neural Networks**\
-**Zhiyang Wang**, Mark Eisen, Alejandro Ribeiro.
+**Zhiyang Wang**, Mark Eisen, Alejandro Ribeiro.\
 *Asilomar Conference on Signals, Systems, and Computers*, 2020.\
 [[link](https://ieeexplore.ieee.org/document/9443326)]
 
 **Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints**\
-Cong Shen, **Zhiyang Wang**, Sofia S Villar, Mihaela van der Schaar.
+Cong Shen, **Zhiyang Wang**, Sofia S Villar, Mihaela van der Schaar.\
 *International Conference on Machine Learning* (ICML), 2020.
 [[pdf](/Papers/ICML2018-LearningDose.pdf)][[link]()]
 
-**Opportunistic Spectrum Access via Good Arm Identification**
+**Opportunistic Spectrum Access via Good Arm Identification**\
 **Zhiyang Wang**, Ziyu Ying, Cong Shen.\
 *IEEE Global Conference on Signal and Information Processing* (GlobalSIP), 2018.\
 [[link](https://ieeexplore.ieee.org/document/8646686)]
