@@ -127,7 +127,7 @@ author:
       url: "https://zhiyangwang.net"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/zhiyang-wang-692b80196/"
+      url: "https://www.linkedin.com/in/wangzhiyang"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -141,23 +141,23 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
 
 
