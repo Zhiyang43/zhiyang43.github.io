@@ -24,7 +24,7 @@ My research is focused on the analysis of geometric graph signal processing in t
 <b>Aug 2023:</b> I am selected to participate in [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/). <br>
 <b>Jul 2023:</b> A paper is accepted by [Asilomar 2023](https://www.asilomarsscconf.org/). See you there!<br>
 <b>Jun 2023:</b> I start my internship at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/).<br>
-<b>Jun 2023:</b> I presented my work at ICASSP 2023. Check out the poster [here](https://zhiyangw.com/Papers/ICASSP_convolutional_poster.pdf).<br>
-<b>Apr 2023:</b> I have been named a [Rising star in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop/). I will be presenting my thesis work on manifold filters and neural networks at ICASSP 2023. Check out the poster [here](https://zhiyangw.com/Papers/ICASSP_rising_star_poster.pdf)!<br>
+<b>Jun 2023:</b> I presented my work at ICASSP 2023. Check out the poster [here](/Posters/ICASSP2023_convolutional_poster.pdf).<br>
+<b>Apr 2023:</b> I have been named a [Rising star in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop/). I will be presenting my thesis work on manifold filters and neural networks at ICASSP 2023. Check out the poster [here](/Posters/ICASSP2023_rising_star_poster.pdf)!<br>
 
 
