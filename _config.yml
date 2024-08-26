@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,32 +43,27 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  hide                   : true
   path                   : # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -80,8 +75,9 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-yandex_site_verification :
 naver_site_verification  :
+yandex_site_verification :
+baidu_site_verification  :
 
 # Social Sharing
 twitter:
@@ -100,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : ""
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
@@ -129,36 +125,36 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wangzhiyang"
-    # - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zhiyang43"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    # - label: "Linkedin"
-    #   icon: "fab fa-fw fa-linkedin-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       # url:
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       # url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
       # url:
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url:
 
 
@@ -187,6 +183,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
   - tmp
@@ -295,7 +292,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: # true
       share: true
       related: true
@@ -306,3 +303,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
