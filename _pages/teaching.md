@@ -22,8 +22,10 @@ Teaching Assistant at the University of Science and Technology of China
 ## Mentorship
 
 Graduate Student
+
 - Romina Garcia (University of Pennsylvania)
 
 Undergraduate Student
+
 - Martin Alijaj (University of Pennsylvania)
 
