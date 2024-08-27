@@ -14,6 +14,11 @@ author_profile: true
 
 ## Preprints
 
+**Generalization of Graph Neural Networks is Robust to Model Mismatch**\
+**Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
+*arXiv*, 2024\
+[[link](https://arxiv.org/abs/2408.13878)]
+
 **A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**\
 **Zhiyang Wang&#8224;**, Juan Cervino&#8224;, Alejandro Ribeiro\
 *arXiv*, 2024\
