@@ -18,10 +18,13 @@ I am a final-year PhD candidate in the [Department of Electrical and Systems Eng
 
 
 ## News
+<b>September 2024:</b> I am selected to participate [the Rising Stars in Data Science workshop](https://datascience.ucsd.edu/rising-stars-in-data-science/)!<br>
 <b>April 2024:</b> Our paper [*Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs*](https://arxiv.org/abs/2305.18467) has been accepted at IEEE Transactions on Signal Processing!<br>
 <b>February 2024:</b> Our paper [*Stability to Deformations of Manifold Filters and Manifold Neural Networks*](https://arxiv.org/abs/2106.03725) has been accepted at IEEE Transactions on Signal Processing!<br>
 <b>August 2023:</b> I have been selected to participate in [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/)!<br>
-<b>July 2023:</b> Our paper has been accepted by [Asilomar 2023](https://www.asilomarsscconf.org/). See you there!<br>
-<b>June 2023:</b> I started my internship at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/).<br>
-<b>June 2023:</b> I presented my work at ICASSP 2023. Check out the poster [here](/Posters/ICASSP2023_convolutional_poster.pdf).<br>
-<b>April 2023:</b> I have been named a [Rising star in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop/). I will be presenting my thesis work on manifold filters and neural networks at ICASSP 2023. Check out the poster [here](/Posters/ICASSP2023_rising_star_poster.pdf).<br>
+
+## Upcoming Events
+<b>November 14-15, 2024:</b> Attend Rising Stars in Data Science workshop at UCSD<br>
+<b>Octoboer 27-30, 2024:</b> Invited talk at 2024 Asilomar Conference on Signals, Systems, and Computers<br>
+<b>Octoboer 20-23, 2024:</b> Invited talk at 2024 INFORMS annual meeting<br>
+<b>September 26-27, 2024:</b> Poster presentation at [Simons MoDL](https://www.simonsfoundation.org/event/mathematical-and-scientific-foundations-of-deep-learning-annual-meeting-2024/) annual meeting<br>
