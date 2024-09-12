@@ -6,6 +6,7 @@ permalink: /honors-awards/
 author_profile: true
 ---
 
+- Rising Stars in Data Science, *2024*
 - EECS Rising Stars, *2023*
 - Rising Star Program in Signal Processing, *ICASSP 2023*
 - Best Student Paper Award, *EUSIPCO 2021*
