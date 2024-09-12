@@ -15,16 +15,7 @@ I am a final-year PhD candidate in the [Department of Electrical and Systems Eng
 
 <span style="color:red">I am currently exploring opportunities for a tenure-track position starting in Fall 2025 and would be happy to discuss any opportunities!</span>
 
-<div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                ## News
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                ## Events
-            </div>
-        </div>
-    </div>
+
 
 ## News
 <b>April 2024:</b> Our paper [*Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs*](https://arxiv.org/abs/2305.18467) has been accepted at IEEE Transactions on Signal Processing!<br>
