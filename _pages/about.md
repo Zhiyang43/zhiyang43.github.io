@@ -27,6 +27,6 @@ I am a final-year PhD candidate in the [Department of Electrical and Systems Eng
 ## Upcoming Events
 
 <b>October 14-18, 2024:</b> Attend IPAM Worshp: Theory and Practice of Deep Learning at UCLA<br>
-<b>October 20-23, 2024:</b> Invited talk at 2024 INFORMS annual meeting<br>
-<b>October 27-30, 2024:</b> Invited talk at 2024 Asilomar Conference on Signals, Systems, and Computers<br>
+<b>October 20-23, 2024:</b> Invited talk at 2024 INFORMS annual meeting at Seattle<br>
+<b>October 27-30, 2024:</b> Invited talk at 2024 Asilomar Conference on Signals, Systems, and Computers at Monterey<br>
 <b>November 14-15, 2024:</b> Rising Stars in Data Science workshop at UCSD<br>
