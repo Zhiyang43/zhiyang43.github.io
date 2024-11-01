@@ -5,7 +5,8 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+- Generalization of Geometric Graph Neural Networks<br>*Asilomar Conference on Signals, Systems, and Computers, October 2024*
+- Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*INFORMS annual meeting, October 2024*
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*Johns Hopkins University Jr. MINDS Seminar, September 2024*
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*University of Pennsylvania ESE PhD Colloquium, April 2024*
 - Convergence of Graph Neural Networks on Relatively Sparse Graphs<br>*Asilomar Conference on Signals, Systems, and Computers, October 2023* 
