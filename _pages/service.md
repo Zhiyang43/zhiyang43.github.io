@@ -20,4 +20,4 @@ author_profile: true
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2023, 2024
 - Asilomar Conference on Signals, Systems, and Computers, 2022 - 2024
 - IEEE International Conference on Acoustics, Speech, and Signal Processing
-(ICASSP), 2021 - 2024
+(ICASSP), 2021 - 2025
