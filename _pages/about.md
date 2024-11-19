@@ -24,5 +24,3 @@ I am a final-year PhD candidate in the [Department of Electrical and Systems Eng
 <b>August 2023:</b> I have been selected to participate in [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/)!<br>
 
 
-## Upcoming Events
-<b>November 14-15, 2024:</b> Rising Stars in Data Science workshop at UCSD<br>
