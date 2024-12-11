@@ -14,10 +14,6 @@ author_profile: true
 
 ## Preprints
 
-**Generalization of Graph Neural Networks is Robust to Model Mismatch**\
-**Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
-*arXiv*, 2024\
-[[link](https://arxiv.org/abs/2408.13878)]
 
 **A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**\
 **Zhiyang Wang&#8224;**, Juan Cervino&#8224;, Alejandro Ribeiro\
@@ -70,7 +66,12 @@ Alejandro Parada-Mayorga, **Zhiyang Wang**, Alejandro Ribeiro\
 
 ## Conference Papers
 
-**Generalization of Geometric Graph Neural Networks**\
+**Generalization of Graph Neural Networks is Robust to Model Mismatch**\
+**Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
+Accepted at *the 39th Annual AAAI Conference on Artificial Intelligence* (AAAI 2025)\
+[[link](https://arxiv.org/abs/2408.13878)]
+
+**Generalization of Graph Neural Networks: Over Geometric Graphs Sampled from Manifolds**\
 **Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
 Accepted at *Asilomar Conference on Signals, Systems, and Computers*, 2024\
 [[pdf](/Papers/Asilomar2024-Generalization.pdf)][[link]()]
